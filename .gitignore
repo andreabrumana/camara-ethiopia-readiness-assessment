@@ -1,0 +1,9 @@
+venv/
+input/
+outputs/
+charts/
+*.xlsx
+*.csv
+__pycache__/
+*.pyc
+.DS_Store
